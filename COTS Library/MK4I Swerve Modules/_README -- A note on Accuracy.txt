@@ -1,0 +1,1 @@
+All items in this folder are representative of their material properties to the best of my (Marshall Hamon's) understanding. I increased the density of the X-Contact bearing to have the mass of the entire module match the mass they should have -- 6lbs
