@@ -1,0 +1,10 @@
+﻿Study Static Analysis:1 started: 8/9/2024, 2:24:54 PM
+Number of configurations: 1
+Default mesh: 1454849 elements, 2374625 nodes
+Mesh at contact 110 is too coarse
+A model separates into 2 independent components
+Soft spring was added
+Soft spring was added
+Study        Worst Jacobian ratio :  3.65  on element 2276 finished: 8/9/2024, 3:03:26 PM
+Total time 0:38:32
+
